@@ -1,11 +1,11 @@
 <style>
 img{
-    width: 20%;
-    padding-left: 80%;
+    width: 5%;
+    padding-left: 70%;
 }
 </style>
 
-# 🐷 QFU Test. 
+# 🐷 Test. ![Test](https://raw.githubusercontent.com/cnqiangfu/CV/master/content/authors/admin/avatar.jpg) 
 ## Biography
 I obtained the Ph.D. with the National Engineering Laboratory for Robot Visual Perception and Control Technology at Hunan University, directed by Prof. [Hongshan Yu](http://eeit.hnu.edu.cn/info/1289/4535.htm) . 
 
@@ -13,6 +13,8 @@ Prior to beginning the Ph.D program, I obtained my B.S. degree with a Top 5% GPA
 
 ## Research Interests
 My research interests focus on visual SLAM and computer vision.
+
+## Websites
 - [Google Schoolar](https://scholar.google.com/citations?user=-FwJwKMAAAAJ&hl=en)🌟
 - [Github](https://github.com/cnqiangfu)🌟
 
@@ -22,7 +24,3 @@ My research interests focus on visual SLAM and computer vision.
 - [PL-VINS: Real-Time Monocular Visual-Inertial SLAM with Point and Line Features](https://arxiv.org/abs/2009.07462)
 - [A Robust RGB-D SLAM System With Points and Lines for Low Texture Indoor Environments](https://ieeexplore.ieee.org/abstract/document/8756267)
 - [Robust Robot Pose Estimation for Challenging Scenes With an RGB-D Camera](https://ieeexplore.ieee.org/abstract/document/8554288) 
-
-
-
-![1](https://raw.githubusercontent.com/cnqiangfu/CV/master/content/authors/admin/avatar.jpg)
