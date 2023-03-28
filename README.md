@@ -1,11 +1,9 @@
 # 🐷 QFU Test.
 
-</div>
 <div align="center">  
 <img width="80" src="https://raw.githubusercontent.com/cnqiangfu/CV/master/content/authors/admin/avatar.jpg" />
 </div>
 
-</div>
  <!-- profile logo -->
   <div align="center">  
     <a href="https://scholar.google.com/citations?user=-FwJwKMAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google%20-orange" /></a>&emsp; 
