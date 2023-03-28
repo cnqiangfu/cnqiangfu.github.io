@@ -1,7 +1,7 @@
 # 🐷 QFU Test.
 
 <div align="center">  
-<img width="80" src="https://raw.githubusercontent.com/cnqiangfu/CV/master/content/authors/admin/avatar.jpg" />
+<img width="90" src="https://raw.githubusercontent.com/cnqiangfu/CV/master/content/authors/admin/avatar.jpg" />
 </div>
 
  <!-- profile logo -->
