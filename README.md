@@ -1,6 +1,6 @@
 # 🐷 QFU Test.
 <div align="center">  
-<img src=https://raw.githubusercontent.com/cnqiangfu/CV/master/content/authors/admin/avatar.jpg width=8% />
+<img src="https://raw.githubusercontent.com/cnqiangfu/CV/master/content/authors/admin/avatar.jpg" width=8%>
 
 </div>
  <!-- profile logo 个人资料徽标 -->
