@@ -2,7 +2,7 @@
 
 </div>
 <div align="center">  
-<img src="https://raw.githubusercontent.com/cnqiangfu/CV/master/content/authors/admin/avatar.jpg" width=8%>
+<img width="80" src="https://raw.githubusercontent.com/cnqiangfu/CV/master/content/authors/admin/avatar.jpg" />
 </div>
 
 </div>
