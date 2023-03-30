@@ -19,8 +19,6 @@ Prior to beginning the Ph.D program, I obtained my B.S. degree with a Top 5% GPA
 ## Research Interests
 My research interests focus on visual SLAM and computer vision.
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=J0Yq0tI0RNkqce1QoysRD4QLsy-uhcZ6gqa6-E_hFSY"></script>
-
 ## Websites
 - [Google Schoolar](https://scholar.google.com/citations?user=-FwJwKMAAAAJ&hl=en)🌟
 - [Github](https://github.com/cnqiangfu)🌟
@@ -34,3 +32,6 @@ My research interests focus on visual SLAM and computer vision.
 - NDNet: Narrow while deep network for real-time semantic segmentation, IEEE Transactions on Intelligent Transportation Systems, 2020, [[Paper]](https://ieeexplore.ieee.org/abstract/document/9078852)
 - Robotic Continuous Grasping System by Shape Transformer-Guided Multi-Object Category-Level 6D Pose Estimation, IEEE Transactions on Industrial Informatics, 2023,  [[Paper]](https://ieeexplore.ieee.org/abstract/document/10043016)
 - Accurate edge-preserving stereo matching by enhancing anisotropy, Signal Processing: Image Communication, 2023, [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0923596523000279)
+
+## 1
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=J0Yq0tI0RNkqce1QoysRD4QLsy-uhcZ6gqa6-E_hFSY"></script>
