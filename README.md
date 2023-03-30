@@ -34,4 +34,4 @@ My research interests focus on visual SLAM and computer vision.
 - Accurate edge-preserving stereo matching by enhancing anisotropy, Signal Processing: Image Communication, 2023, [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0923596523000279)
 
 ## 1
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=J0Yq0tI0RNkqce1QoysRD4QLsy-uhcZ6gqa6-E_hFSY"></script>
+<script width="200" type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=J0Yq0tI0RNkqce1QoysRD4QLsy-uhcZ6gqa6-E_hFSY"></script>
